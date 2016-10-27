@@ -10,6 +10,16 @@
     <atom:link href="http://vnguy.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Hello world</title>
+      <link>http://vnguy.com/post/hello-world/</link>
+      <pubDate>Thu, 27 Oct 2016 07:20:44 +0700</pubDate>
+      
+      <guid>http://vnguy.com/post/hello-world/</guid>
+      <description>&lt;p&gt;Hello world 2!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome to my blog!</title>
       <link>http://vnguy.com/post/welcome/</link>
       <pubDate>Thu, 27 Oct 2016 07:20:44 +0700</pubDate>
